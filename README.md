@@ -1,2 +1,2 @@
-# genai-projects
-To Store GenAI projects
+# Genai-projects
+Expirement GenAI projects
